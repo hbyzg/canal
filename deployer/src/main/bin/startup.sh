@@ -111,3 +111,4 @@ then
 else 
 	echo "canal conf("$canal_conf") OR log configration file($logback_configurationFile) is not exist,please create then first!"
 fi
+
